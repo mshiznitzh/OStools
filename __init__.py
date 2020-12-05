@@ -1,1 +1,1 @@
-import main.py
+from .OStool import import check_for_path
